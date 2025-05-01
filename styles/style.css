@@ -11,12 +11,12 @@ body{
     
 }
 .container{
-    width: 360px;
+    width: 450px;
     height: 900px;
     background: #e3f2fd;
 }
 .container-2{
-    width: 360px;
+    width: 450px;
     /* height: 900px; */
     background: #EEE;
 }
